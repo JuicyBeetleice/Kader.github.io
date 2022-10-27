@@ -1,0 +1,26 @@
+﻿&t1=Your Company Name
+
+&t2=Company beautiful slogan here
+
+&t3=Welcome To Our Website
+
+&t4=VISUAL WEB TEMPLATE
+
+&t5=You can easily modify this page by selecting the text and replacing  it with your own content. 
+
+
+
+
+
+&menu1=About us
+
+&menu2=Product
+
+&menu3=Service
+
+&menu4=Read me
+
+&menu5=1 Layout
+
+&menu6=2 Layout
+
